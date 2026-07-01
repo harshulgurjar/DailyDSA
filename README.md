@@ -52,13 +52,16 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 <!---LeetCode Topics End-->
