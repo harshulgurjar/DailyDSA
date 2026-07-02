@@ -71,4 +71,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
