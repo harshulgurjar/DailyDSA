@@ -90,6 +90,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +107,5 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 <!---LeetCode Topics End-->
