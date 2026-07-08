@@ -88,6 +88,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -101,4 +102,8 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
