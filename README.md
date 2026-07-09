@@ -90,11 +90,13 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +110,20 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
