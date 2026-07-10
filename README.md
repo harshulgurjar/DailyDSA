@@ -92,6 +92,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
+| [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -139,4 +141,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
