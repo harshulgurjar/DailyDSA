@@ -58,6 +58,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0100-same-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Two Pointers
 |  |
@@ -95,6 +98,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
@@ -110,6 +114,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
