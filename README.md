@@ -57,6 +57,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
@@ -74,12 +75,14 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Two Pointers
 |  |
@@ -105,6 +108,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
