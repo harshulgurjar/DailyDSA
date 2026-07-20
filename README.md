@@ -101,6 +101,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2299-strong-password-checker-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
