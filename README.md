@@ -95,6 +95,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -179,6 +181,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 ## Recursion
 |  |
