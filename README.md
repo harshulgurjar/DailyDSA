@@ -137,6 +137,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Simulation
 |  |
 | ------- |
+| [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
