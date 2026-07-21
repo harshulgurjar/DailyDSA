@@ -164,4 +164,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
