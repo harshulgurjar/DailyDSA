@@ -68,6 +68,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -87,6 +88,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Two Pointers
@@ -149,6 +151,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -207,4 +210,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
