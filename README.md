@@ -115,6 +115,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
@@ -187,6 +188,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 ## Recursion
@@ -218,4 +220,8 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
