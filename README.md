@@ -133,6 +133,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
@@ -202,6 +204,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
