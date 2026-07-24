@@ -108,6 +108,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/harshulgurjar/DailyDSA/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2299-strong-password-checker-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/2299-strong-password-checker-ii) |
@@ -166,6 +167,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/harshulgurjar/DailyDSA/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
