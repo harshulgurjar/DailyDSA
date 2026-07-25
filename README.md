@@ -53,6 +53,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -74,6 +75,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshulgurjar/DailyDSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -84,6 +86,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
@@ -132,6 +135,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
