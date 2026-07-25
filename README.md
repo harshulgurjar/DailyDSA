@@ -59,6 +59,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
@@ -81,6 +82,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
@@ -92,6 +94,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0113-path-sum-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0257-binary-tree-paths) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Two Pointers
@@ -138,6 +141,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0099-recover-binary-search-tree](https://github.com/harshulgurjar/DailyDSA/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Stack
 |  |
