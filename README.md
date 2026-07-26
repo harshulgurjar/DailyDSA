@@ -173,6 +173,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
@@ -213,6 +214,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
 |  |
