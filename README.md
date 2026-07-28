@@ -183,6 +183,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
+| [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,4 +263,9 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
+| [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
