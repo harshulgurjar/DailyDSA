@@ -179,6 +179,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
@@ -190,6 +191,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/harshulgurjar/DailyDSA/tree/master/0290-word-pattern) |
+| [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
 | ------- |
@@ -256,4 +258,8 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
