@@ -116,6 +116,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshulgurjar/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/harshulgurjar/DailyDSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/harshulgurjar/DailyDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/harshulgurjar/DailyDSA/tree/master/0125-valid-palindrome) |
@@ -187,6 +188,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshulgurjar/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
@@ -262,6 +264,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshulgurjar/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 | [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
 ## Bit Manipulation
