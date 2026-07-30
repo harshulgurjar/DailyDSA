@@ -128,6 +128,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/harshulgurjar/DailyDSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2299-strong-password-checker-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/2299-strong-password-checker-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/harshulgurjar/DailyDSA/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
