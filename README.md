@@ -133,6 +133,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshulgurjar/DailyDSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0063-unique-paths-ii) |
@@ -172,6 +173,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -220,6 +222,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
