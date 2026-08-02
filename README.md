@@ -136,6 +136,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0063-unique-paths-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshulgurjar/DailyDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/0152-maximum-product-subarray) |
@@ -172,6 +173,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0063-unique-paths-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshulgurjar/DailyDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/0152-maximum-product-subarray) |
