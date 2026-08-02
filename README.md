@@ -188,6 +188,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -248,6 +249,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
@@ -285,4 +287,8 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
