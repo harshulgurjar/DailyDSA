@@ -189,6 +189,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -204,6 +205,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/harshulgurjar/DailyDSA/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
@@ -237,6 +239,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -291,4 +294,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
