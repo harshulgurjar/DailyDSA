@@ -191,6 +191,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/harshulgurjar/DailyDSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -207,6 +208,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/harshulgurjar/DailyDSA/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
 ## Trie
 |  |
@@ -254,6 +256,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 ## Divide and Conquer
