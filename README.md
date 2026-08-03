@@ -188,6 +188,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -302,4 +303,8 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
