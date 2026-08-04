@@ -201,6 +201,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2293-min-max-game](https://github.com/harshulgurjar/DailyDSA/tree/master/2293-min-max-game) |
 | [2401-longest-nice-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/2401-longest-nice-subarray) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/harshulgurjar/DailyDSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Hash Table
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0055-jump-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/harshulgurjar/DailyDSA/tree/master/0402-remove-k-digits) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/harshulgurjar/DailyDSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
@@ -262,6 +264,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/harshulgurjar/DailyDSA/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Divide and Conquer
 |  |
 | ------- |
