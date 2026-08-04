@@ -73,6 +73,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshulgurjar/DailyDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1302-deepest-leaves-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -143,6 +144,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,4 +313,12 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
