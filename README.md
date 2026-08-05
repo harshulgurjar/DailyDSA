@@ -173,6 +173,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0045-jump-game-ii) |
@@ -205,6 +206,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshulgurjar/DailyDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshulgurjar/DailyDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/harshulgurjar/DailyDSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
