@@ -196,6 +196,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/harshulgurjar/DailyDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
@@ -256,6 +257,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | ------- |
 | [0062-unique-paths](https://github.com/harshulgurjar/DailyDSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/harshulgurjar/DailyDSA/tree/master/0441-arranging-coins) |
@@ -335,4 +337,24 @@ Stay consistent, improve daily, and become placement-ready 🚀
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/harshulgurjar/DailyDSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
