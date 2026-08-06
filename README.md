@@ -160,6 +160,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0441-arranging-coins](https://github.com/harshulgurjar/DailyDSA/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshulgurjar/DailyDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -251,6 +252,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/harshulgurjar/DailyDSA/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/harshulgurjar/DailyDSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshulgurjar/DailyDSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
