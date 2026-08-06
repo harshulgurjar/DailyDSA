@@ -2,25 +2,33 @@ class Solution {
 public:
     vector<int> findRightInterval(vector<vector<int>>& intervals) {
         int n = intervals.size();
+
+        // store {start, original_index}
+        vector<pair<int,int>> starts;
+        for (int i = 0; i < n; i++) {
+            starts.push_back({intervals[i][0], i});
+        }
+
+        // sort by start
+        sort(starts.begin(), starts.end());
+
         vector<int> ans(n);
 
         for (int i = 0; i < n; i++) {
-            int idx = -1;
-            int minStart = INT_MAX;
+            int end = intervals[i][1];
 
-            for (int j = 0; j < n; j++) {
+            // first start >= end
+            auto it = lower_bound(
+                starts.begin(),
+                starts.end(),
+                make_pair(end, -1)
+            );
 
-                // Is interval j a valid right interval?
-                // And is its start the smallest we've seen?
-                if (intervals[j][0] >= intervals[i][1] &&
-                    intervals[j][0] < minStart) {
-
-                    minStart = intervals[j][0];
-                    idx = j;
-                }
+            if (it == starts.end()) {
+                ans[i] = -1;
+            } else {
+                ans[i] = it->second;
             }
-
-            ans[i] = idx;
         }
 
         return ans;
