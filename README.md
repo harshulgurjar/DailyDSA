@@ -144,6 +144,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0139-word-break](https://github.com/harshulgurjar/DailyDSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/harshulgurjar/DailyDSA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/harshulgurjar/DailyDSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -192,6 +193,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/harshulgurjar/DailyDSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshulgurjar/DailyDSA/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/harshulgurjar/DailyDSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
