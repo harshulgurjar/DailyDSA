@@ -160,6 +160,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshulgurjar/DailyDSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0436-find-right-interval](https://github.com/harshulgurjar/DailyDSA/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/harshulgurjar/DailyDSA/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/harshulgurjar/DailyDSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harshulgurjar/DailyDSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -196,6 +197,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/harshulgurjar/DailyDSA/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/harshulgurjar/DailyDSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0436-find-right-interval](https://github.com/harshulgurjar/DailyDSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/harshulgurjar/DailyDSA/tree/master/0904-fruit-into-baskets) |
@@ -265,6 +267,7 @@ Stay consistent, improve daily, and become placement-ready 🚀
 | [0088-merge-sorted-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harshulgurjar/DailyDSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/harshulgurjar/DailyDSA/tree/master/0274-h-index) |
+| [0436-find-right-interval](https://github.com/harshulgurjar/DailyDSA/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshulgurjar/DailyDSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshulgurjar/DailyDSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/harshulgurjar/DailyDSA/tree/master/2070-most-beautiful-item-for-each-query) |
